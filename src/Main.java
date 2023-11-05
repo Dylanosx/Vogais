@@ -30,7 +30,7 @@ public class Main {
                 case 'u':
                     quantidadevogais[4]++;
                     break;
-            }
+//            } /aqui
         }
 
 
